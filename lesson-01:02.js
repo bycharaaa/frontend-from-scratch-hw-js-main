@@ -5,7 +5,7 @@
   Например, факториал числа 3 это 1 * 2 * 3 (6).
 */ 
 
-let factorial = 1:
+let factorial = 1;
 let num = 10;
 
 while (num > 0) {
